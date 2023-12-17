@@ -1,0 +1,4 @@
+#scan for corrupt files ufter windows-update
+#in admin mode terminal
+
+sfc /scannow
